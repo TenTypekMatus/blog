@@ -1,0 +1,10 @@
+baseURL = 'http://matusov-blog.vercel.app/'
+languageCode = 'sk-sk'
+title = 'Matúšov blog'
+theme = 'beautifulhugo'
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsStyle = "trac"
+pygmentsUseClassic = true
+[Params]
+    useHLJS = true
