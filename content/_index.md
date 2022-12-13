@@ -6,7 +6,6 @@ author: "Matúš Maštena"
 ---
 
 # O mne:
-Základné info:
  - Meno: Matúš Maštena 
  - Poloha: Bratislava 🇸🇰
  # Záujmy:
