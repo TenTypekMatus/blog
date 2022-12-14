@@ -8,7 +8,7 @@ author: "Matúš Maštena"
 # O mne:
  - Meno: Matúš Maštena 
  - Poloha: Bratislava 🇸🇰
- # Záujmy:
+# Záujmy:
  - Programovanie 👨‍💻
  - Gaming 🎮
  - Ricing 🍚
