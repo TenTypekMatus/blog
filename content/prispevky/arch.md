@@ -21,4 +21,4 @@ Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty IS
 
 No a teraz môžete napísať príkaz ``archinstall``, potom chvíľku počkať a voilá, môžeme ísť inštalovať
 ## Jazyk
-Po tom, čo 
+Po tom, čo sa vám načíta inštalátor
