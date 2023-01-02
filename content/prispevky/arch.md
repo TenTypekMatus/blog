@@ -9,8 +9,6 @@ Ako asi (ne) viete, ja mám veľmi rád distrohopovanie. Je to aktivita, keď st
 
 # Inštalácia
 
-![](./img/Arch/archinstall.png)
-
 Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty ISO „Archu“ majú inštalačný program, ktorý sa volá Archinstall. Keď sa nabootujete do Arch Linuxu, tak sa Vám zobrazí prostý príkazový riadok, čo je inak ``zsh``. Potom sa treba pripojiť k internetu, ale to bude trápiť len tých, ktorí ho chcú nainštalovať na notebooku/majú Wi-Fi kartu. A to sa dá urobiť následovné:
 
 1. Napíšte ``iwctl``.
@@ -21,4 +19,14 @@ Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty IS
 
 No a teraz môžete napísať príkaz ``archinstall``, potom chvíľku počkať a voilá, môžeme ísť inštalovať
 ## Jazyk
-Po tom, čo sa vám načíta inštalátor
+Po tom, čo sa vám načíta inštalátor, sa ocitnete v prehľadnom prostredií, kde si môžete nakonfigurovať jazyk, disky a zopár ďaľších vecí. My sa ale v tomto odseku povenujeme tomu, ako si zvoliť jazyk. Takže, poďme na to. 
+
+1. Prejdite šípkami na možnosť ``Locale``, čo znamená jazyk. 
+2. Keď stlačíte Enter, tak sa vám otvorí obrovský zoznam tzv. unixových jazykových kódov.
+    - Sú to kódy pre jazyky, ktoré používa logicky každý unixový/„Unix-like“
+3. Stlačte lomítko, ktoré je na klávesnici pri ľavom Shifte, pričom kód pre slovenčinu je ``sk_SK``. Napíšte tam napr. kód pre slovenčinu, pričom kódy pre ostatné jazyky som uviedol dole.
+    > Pre iné jazyky je ten kód odlišný. Napríklad Česi majú kód ``cz_CS``, pričom to ``CS`` je vlastne jazyková mutácia. Alebo ``en_US``, čo je vlastne americká angličtina, ktorá sa líši od tej britskej, ktorá má kód ``en_GB``.
+4. Keď prejdete na požadovaný jazyk tak stlačte Enter.
+Hotovo, máte zvolený jazyk
+## Disky
+Keď si zvolíte jazyk, tak si musíte zvoliť disk(y), na ktoré chcete nainštalovať Arch. Urobíte to tak, že pôjdete šípkami na možnosť ``Drive(s)`` a stlačíte Enter. 
