@@ -9,6 +9,8 @@ Ako asi (ne) viete, ja mám veľmi rád distrohopovanie. Je to aktivita, keď st
 
 # Inštalácia
 
+![](./img/Arch/zsh.png)
+
 Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty ISO „Archu“ majú inštalačný program, ktorý sa volá Archinstall. Keď sa nabootujete do Arch Linuxu, tak sa Vám zobrazí prostý príkazový riadok, čo je inak ``zsh``. Potom sa treba pripojiť k internetu, ale to bude trápiť len tých, ktorí ho chcú nainštalovať na notebooku/majú Wi-Fi kartu. A to sa dá urobiť následovné:
 
 1. Napíšte ``iwctl``.
@@ -18,3 +20,4 @@ Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty IS
     - Ak tá Wi-Fi má heslo, tak sa Vám zobrazí pole, kde sa Vám síce nebudú zobrazovať hviezdičky, ale tam budete musieť zadať to heslo.
 
 No a teraz môžete napísať príkaz ``archinstall``, potom chvíľku počkať a voilá, môžeme ísť inštalovať
+## Jazyk

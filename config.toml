@@ -6,5 +6,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsStyle = "trac"
 pygmentsUseClassic = true
+enableGitInfo = true
 [Params]
     useHLJS = true
+    commit = "https://github.com/TenTypekMatus/blog/tree/"
