@@ -9,7 +9,7 @@ Ako asi (ne) viete, ja mám veľmi rád distrohopovanie. Je to aktivita, keď st
 
 # Inštalácia
 
-![](./img/Arch/zsh.png)
+![](./img/Arch/archinstall.png)
 
 Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty ISO „Archu“ majú inštalačný program, ktorý sa volá Archinstall. Keď sa nabootujete do Arch Linuxu, tak sa Vám zobrazí prostý príkazový riadok, čo je inak ``zsh``. Potom sa treba pripojiť k internetu, ale to bude trápiť len tých, ktorí ho chcú nainštalovať na notebooku/majú Wi-Fi kartu. A to sa dá urobiť následovné:
 
@@ -21,3 +21,4 @@ Arch sa v novších verziách inštaluje pomerne jednoducho. Nové snapshoty IS
 
 No a teraz môžete napísať príkaz ``archinstall``, potom chvíľku počkať a voilá, môžeme ísť inštalovať
 ## Jazyk
+Po tom, čo 
